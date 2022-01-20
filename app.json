@@ -70,11 +70,10 @@
          "required": false,
          "value": "4E9j9Nr8SK9kqK9StMVsS3b1XiQ4Q4EHrO0LBYqWb2ZTlnIBOQfwmNSexaTNyo7M"
       },
- 
-      "STRICT_GBAN": {
+       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
          "value": "True"
-   
+      },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
          "value": "ANYTHING"
